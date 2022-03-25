@@ -52,8 +52,9 @@ doldurur. Her bir ürün için KDV Tutarı ve ürünün son fiyatı da hesaplana
 ### Explanation of the Design Decisions
 
 All requirements are satisfied.  
-Explanation and demonstration video : https://youtu.be/4ZQT0eh_H6k  
 Time spent on the project : 80+ hours.  
+Line of code count : 4700
+Explanation and demonstration video : https://youtu.be/4ZQT0eh_H6k  
 Entity and controller design: https://ibb.co/f0DBp1T  
 
 - VatRate is stored in a table because I want API users to be able to specify desired VAT rates for specific products
